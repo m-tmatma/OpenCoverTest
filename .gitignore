@@ -241,3 +241,7 @@ ModelManifest.xml
 # FAKE - F# Make
 .fake/
 /OpenCoverTest2/packages
+/OpenCoverTest2/bin
+/OpenCoverTest2/html
+/OpenCoverTest2/results0.xml
+/OpenCoverTest2/results1.xml
